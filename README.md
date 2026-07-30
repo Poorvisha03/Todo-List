@@ -3,7 +3,6 @@
 A clean, responsive, and modern Todo List web application built using native web technologies. This project highlights efficient structural layout using CSS Grid, object-oriented state management, and real-time DOM rendering loops using JavaScript.
 
 ## 🚀 Live Demo
-*(Once you deploy to GitHub Pages, add your URL here!)*
 - **Live URL:** [View Project Live](https://poorvisha03.github.io/Todo-List/)
 
 ## ✨ Key Features
